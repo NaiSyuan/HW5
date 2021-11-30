@@ -1,0 +1,3 @@
+﻿  mainc.cpp
+d:\users\naisy\桌面\110360231陳廼軒\p25\source\mainc.cpp(19): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  p25.vcxproj -> D:\Users\naisy\桌面\110360231陳廼軒\P25\p25\Debug\p25.exe
